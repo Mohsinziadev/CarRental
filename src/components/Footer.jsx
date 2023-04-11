@@ -20,7 +20,7 @@ function Footer() {
 
               <li>
                 <a
-                  href="mailto: 
+                  href="mailto:
                 carrental@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
@@ -35,7 +35,7 @@ function Footer() {
                   rel="noreferrer"
                   href="https://xpeedstudio.com/"
                 >
-                  Design by XpeedStudio
+                  Design by Mohsin zia
                 </a>
               </li>
             </ul>
